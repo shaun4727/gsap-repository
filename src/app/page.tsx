@@ -20,7 +20,7 @@ export default function Home() {
                 <Link href="/gsap-stagger">GSAP Stagger</Link>
             </Button>
             <Button>
-                <Link href="/gsap-scroll">GSAP Scroll Trigger</Link>
+                <Link href="/gsap-scroll-trigger">GSAP Scroll Trigger</Link>
             </Button>
             <Button>
                 <Link href="/gsap-text">GSAP Text</Link>

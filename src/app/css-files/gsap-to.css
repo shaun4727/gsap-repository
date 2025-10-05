@@ -1,3 +1,7 @@
 .box-style {
     @apply h-34 w-34 bg-blue-800 mt-24 ml-4;
 }
+
+.box-stagger-style {
+    @apply h-22 w-16 rounded-lg mt-24 ml-4;
+}

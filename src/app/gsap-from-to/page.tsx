@@ -9,7 +9,7 @@ const GsapTo = () => {
             {
                 x: 0,
                 rotation: 0,
-                duration: 4,
+                duration: 2,
                 borderRadius: '0%',
                 ease: 'power1.inOut',
             },
@@ -19,8 +19,8 @@ const GsapTo = () => {
                 yoyo: true,
                 borderRadius: '100%',
                 rotation: 360,
-                duration: 3,
-                ease: 'elastic',
+                duration: 2,
+                ease: 'power1.out',
             },
         );
     }, []);
